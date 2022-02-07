@@ -1,0 +1,15 @@
+1. The zipe file was password protected.
+2. The password was based on password guessing.
+3. The password of zips started with passwd{and the number of the file}
+4. Mannually extracted the first zip which gave the zip file flag99.zip.
+5. For rest of zip file used a script to get the flag.
+
+
+import zipfile
+
+for i in range(99,0,-1):
+	file_name = 'flag'+str(i)+'.zip'
+ 	password = 'passwd'+str(i)
+ 	with zipfile.ZipFile(file_name) as file:
+ 		file.extractall(pwd = bytes(pswd, 'utf-8'))
+		print(f"zip file {file} extracted !") 
