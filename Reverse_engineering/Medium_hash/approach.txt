@@ -1,0 +1,3 @@
+1. Used IDA to disassemble the binary
+2. Got the 2 digit number and the string, which should be entered to get the hash.
+3. The hash was the flag.
