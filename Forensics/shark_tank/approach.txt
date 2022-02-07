@@ -1,0 +1,5 @@
+1. Extracted the zip file give
+2. Used wireshark to analyze the challenge.pcapng file 
+3. Search using TCP streams and found a unique string in contact.php 
+4. The strings was base58 encoded and resulting was base64 encoded 
+5. Used cyberchef and got flag
