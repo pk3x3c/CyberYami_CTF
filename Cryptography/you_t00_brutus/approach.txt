@@ -1,0 +1,2 @@
+1. The cipher text give was a scytale cipher.
+2. Used decode.fr to decode the cipher and got flag.
