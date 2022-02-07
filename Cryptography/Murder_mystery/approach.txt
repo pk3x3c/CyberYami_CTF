@@ -1,0 +1,4 @@
+1. Got 2 images. One of them was a sketch of a murderer and other was a cipher text.
+2. On reversing the image, got some info that cipher text was linked with him.
+3. Found the name of cipher text - Zodica killer cipher
+4. used decode.fr to decrypt the cipher and got.
