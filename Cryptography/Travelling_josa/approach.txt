@@ -1,0 +1,2 @@
+1. The cipher was mexican army cipher wheel.
+2. In the description of challenge we were given some values associated further for decrypting the text.
