@@ -1,0 +1,1 @@
+1. Used exiftool on the image and got meta data which was hexencoded. Decoded to get the flag
