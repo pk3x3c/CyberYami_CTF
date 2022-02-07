@@ -1,0 +1,3 @@
+1. From blue bird, got some hint that related to Twitter.
+2. The text given was a special encoding (twitter steganogrpahy).
+3. Decode the message and got the flag.
