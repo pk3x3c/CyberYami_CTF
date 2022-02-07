@@ -1,0 +1,1 @@
+1. For this didn't had much time, so used a brute force script to get the text file which gave the flag.
