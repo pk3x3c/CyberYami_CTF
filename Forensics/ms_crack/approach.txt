@@ -1,0 +1,4 @@
+1. Extracted the zip file
+2. The challenge.docx file was password protected, so use john the ripper to crack password.
+2. On opening the challenge.docx file using office got first part of the flag
+3. extracted the pandora.docx and then opened the document.xml file in word directory to get the second part of the flag
