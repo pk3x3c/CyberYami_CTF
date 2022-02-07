@@ -1,0 +1,2 @@
+1. We were given some dots and dash type cipher. The cipher text was morse code. Used morse code decoder and got a reverse flag. 
+2. Reverse the resulting to get the flag.
